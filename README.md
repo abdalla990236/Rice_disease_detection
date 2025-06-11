@@ -1,1 +1,0 @@
-echo "# Rice disease detection" > README.md
